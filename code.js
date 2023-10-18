@@ -17,20 +17,20 @@ function isSeven(input) {
 // }
 
 // Exercise 2
-function sayHello() {
-    return "";
-}
+// function sayHello() {
+//     return "";
+// }
 
 // Exercise 3
-function sayHello(input) {
-    if(input==="Alex") {
-        return 'Hello Alex!'
-    } else if (input==="Jane") {
-        return 'Hello Jane!'
-    } else {
-        return 'Hello Pat!'
-    }
-}
+// function sayHello(input) {
+//     if(input==="Alex") {
+//         return 'Hello Alex!'
+//     } else if (input==="Jane") {
+//         return 'Hello Jane!'
+//     } else {
+//         return 'Hello Pat!'
+//     }
+// }
 
 // Exercise 4
 
@@ -40,3 +40,11 @@ function sayHello(input) {
 
 // Exercise 5
 // (added into exercise 3 above)
+
+// Exercise 6 - Implementing refactor of sayHello
+
+function sayHello(input) {
+    return "Hello " + input + "!";
+}
+
+// Exercise 7
