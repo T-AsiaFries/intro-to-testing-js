@@ -12,9 +12,21 @@ function isSeven(input) {
 }
 
 // Exercise 1
-
-function sayHello(input) {
-    return "Hello";
+function sayHello() {
+    return Hello;
 }
+
+// Exercise 2
+function sayHello(input) {
+    return 'Hello';
+}
+
+// Exercise 3
+function sayHello(Jane) {
+    return 'Hello Jane';
+}
+
+// Exercise 4
+
 
 
