@@ -25,8 +25,10 @@ function sayHello() {
 function sayHello(input) {
     if(input==="Alex") {
         return 'Hello Alex!'
-    } else {
+    } else if (input==="Jane") {
         return 'Hello Jane!'
+    } else {
+        return 'Hello Pat!'
     }
 }
 
@@ -37,4 +39,4 @@ function sayHello(input) {
 // }
 
 // Exercise 5
-
+// (added into exercise 3 above)
