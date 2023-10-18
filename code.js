@@ -14,7 +14,7 @@ function isSeven(input) {
 // Exercise 1
 
 function sayHello(input) {
-    return "Hello + input";
+    return "Hello";
 }
 
 
